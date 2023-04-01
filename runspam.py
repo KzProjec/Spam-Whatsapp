@@ -32,7 +32,7 @@ biru="\033[1;96m"
 
 os.system("clear")
 
-autoketik (f"""
+autoketik ((f"""
 {merah}
 {merah}
 {merah}
@@ -47,7 +47,7 @@ autoketik (f"""
 {putih}[{biru}{putih}] {ungu}Instagram {putih}: @dziki_kz
 {W}[{Y}{W}] IP  {putih}  :{Y} {ip}
 {W}[{Y}{W}] Waktu {putih}:{Y} {localtime}
-{putih}-----------------------------------------""")
+{putih}-----------------------------------------"""))
 
 
 nomor = input("Nomor Hp = ")
