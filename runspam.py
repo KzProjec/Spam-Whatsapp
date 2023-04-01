@@ -34,6 +34,13 @@ os.system("clear")
 
 autoketik (f"""
 
+{merah} ____  __.           _________                     
+{merah}|    |/ _|________  /   _____/__________    _____  
+{merah}|      <  \___   /  \_____  \\____ \__  \  /     \ 
+{putih}|    |  \  /    /   /        \  |_> > __ \|  Y Y  \
+{putih}|____|__ \/_____ \ /_______  /   __(____  /__|_|  /
+{putih}        \/      \/         \/|__|       \/      \/ 
+
 {merah}-----------------------------------------
 {putih}[{biru}{putih}]{hijau}Author {putih}   : Kz Projec
 {putih}[{biru}{putih}] {abu}GitHub {putih}   : Kzprojec
